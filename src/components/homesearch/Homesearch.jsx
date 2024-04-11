@@ -1,16 +1,17 @@
 import React from 'react'
 import './Homesearch.css'
+import { FaSearch } from "react-icons/fa";
 
 const Homesearch = () => {
   return (
     <div className='hsearch'>
         <h2>Let us help you find the right gunpla for you</h2>
-        <form action="" class="search-bar">
-            <input type="search" name="search" pattern=".*\S.*" required/>
-            <button class="search-btn" type="submit">
-                <span>Search</span>
-            </button>
-        </form>
+        <div class="wrap-search">
+          <div class="search-bar">
+              <input type="text" class="searchTerm" placeholder="What are you looking for?"/>
+              <button type="submit" class="searchButton"><FaSearch /></button>
+          </div>
+        </div>
     </div>
   )
 }

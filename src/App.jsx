@@ -8,6 +8,9 @@ import Navbar from './components/header/Navbar'
 import Login from './pages/login/Login'
 import Signup from './pages/signup/Signup'
 import Footer from './components/bottom/footer'
+import Videotech from './pages/techniques/videotech/Videotech'
+import Blogtech from './pages/techniques/blogtech/Blogtech'
+
 
 
 function App() {
@@ -22,6 +25,8 @@ function App() {
         <Route path="/techniques" element={<Techniques />} />
         <Route path="/login" element={<Login/>} />
         <Route path="/signup" element={<Signup/>} />
+        <Route path="/videotech" element={<Videotech/>} />
+        <Route path="/blogtech" element={<Blogtech/>} />
         <Route path="*" element={<h1>404 not found</h1>} />
       </Routes>
       <Footer />
