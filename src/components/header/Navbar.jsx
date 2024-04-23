@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import './Navbar.css'
+import { BiColor } from 'react-icons/bi'
 
 const Navbar = () => {
   return (
@@ -12,7 +13,7 @@ const Navbar = () => {
           <li><Link to="/gunpla">Gunpla</Link></li>
           <li><Link to="/techniques">Techniques</Link></li>        
         </ul>
-        <button type="button" class="log-nav">Login</button>
+        <button type="button" class="log-nav"><Link to="/login">Login</Link></button>
       </nav>
   </div>
   )

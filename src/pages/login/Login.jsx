@@ -21,7 +21,6 @@ const Login = () => {
 
                     <div class="remember-forget">
                         <label><input type = "checkbox"/>Remember me</label>
-                        <a href="#">Forget password?</a>
                     </div>
 
                     <button type="submit" class="btn">Login</button>
