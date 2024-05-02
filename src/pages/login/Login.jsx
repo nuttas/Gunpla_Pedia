@@ -2,6 +2,7 @@ import React from 'react'
 import './Login.css'
 import { MdEmail } from "react-icons/md";
 import { IoIosLock } from "react-icons/io";
+import { Link } from 'react-router-dom'
 
 const Login = () => {
   return (
@@ -26,7 +27,7 @@ const Login = () => {
                     <button type="submit" class="btn">Login</button>
 
                     <div class = "register-link">
-                        <p>Don't have an account? <a href="#">Register</a></p>
+                        <p>Don't have an account? <Link to="/signup"><a href="#">Register</a></Link></p>
                     </div>
 
                 </form>

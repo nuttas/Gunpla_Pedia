@@ -11,6 +11,7 @@ import Footer from './components/bottom/footer'
 import Videotech from './pages/techniques/videotech/Videotech'
 import Blogtech from './pages/techniques/blogtech/Blogtech'
 import Account from './pages/account/Account'
+import Details from './pages/details/Details'
 
 
 
@@ -29,6 +30,7 @@ function App() {
         <Route path="/videotech" element={<Videotech/>} />
         <Route path="/blogtech" element={<Blogtech/>} />
         <Route path="/account" element={<Account/>} />
+        <Route path="/details" element={<Details/>} />
         <Route path="*" element={<h1>404 not found</h1>} />
       </Routes>
       <Footer />

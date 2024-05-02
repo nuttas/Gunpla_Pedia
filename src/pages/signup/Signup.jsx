@@ -3,6 +3,7 @@ import './Signup.css'
 import { MdEmail } from "react-icons/md";
 import { IoIosLock } from "react-icons/io";
 import { FaUser } from "react-icons/fa";
+import { Link } from 'react-router-dom'
 
 const Login = () => {
   return (
@@ -35,7 +36,7 @@ const Login = () => {
                     <button type="submit" class="btn">Login</button>
 
                     <div class = "register-link">
-                        <p>Already have an account? <a href="#">Login</a></p>
+                        <p>Already have an account? <Link to="/login"><a href="#">Login</a></Link></p>
                     </div>
 
                 </form>

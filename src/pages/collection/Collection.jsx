@@ -5,7 +5,7 @@ const Collection = () => {
   return (
     <div>
       <Topcollect />
-      kf;kf;sfk;sdfjsd;kfs
+      
     </div>
   )
 }
