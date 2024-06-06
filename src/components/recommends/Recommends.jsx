@@ -42,8 +42,8 @@ const Recommends = () => {
             </picture>
             <div className='recom-details'>
                 <p>
-                    <b>Product Two</b>
-                    <small>New arrival</small>
+                    <b>MG Justice Gundam</b><br></br>
+                    <small>Seed</small>
                 </p>
             </div>
             <div className='recom-button'>
@@ -54,7 +54,7 @@ const Recommends = () => {
                     <strong><FaStar /></strong>
                     <strong><FaStar /></strong>
                 </p>
-                <a href='#'>Add to collection</a>
+                <a href='#'><b>Add to collection</b></a>
             </div>
         </div>
         <div className='products'>
@@ -63,7 +63,7 @@ const Recommends = () => {
             </picture>
             <div className='recom-details'>
                 <p>
-                    <b>Product Three</b>
+                    <b>Product Three</b><br></br>
                     <small>New arrival</small>
                 </p>
             </div>
@@ -75,7 +75,7 @@ const Recommends = () => {
                     <strong><FaStar /></strong>
                     <strong><FaStar /></strong>
                 </p>
-                <a href='#'>Add to collection</a>
+                <a href='#'><b>Add to collection</b></a>
             </div>
         </div>
         <div className='products'>
@@ -84,7 +84,7 @@ const Recommends = () => {
             </picture>
             <div className='recom-details'>
                 <p>
-                    <b>Product Four</b>
+                    <b>Product Four</b><br></br>
                     <small>New arrival</small>
                 </p>
             </div>
@@ -96,7 +96,7 @@ const Recommends = () => {
                     <strong><FaStar /></strong>
                     <strong><FaStar /></strong>
                 </p>
-                <a href='#'>Add to collection</a>
+                <a href='#'><b>Add to collection</b></a>
             </div>
         </div>
         <div className='products'>
@@ -105,7 +105,7 @@ const Recommends = () => {
             </picture>
             <div className='recom-details'>
                 <p>
-                    <b>Product Five</b>
+                    <b>Product Five</b><br></br>
                     <small>New arrival</small>
                 </p>
             </div>
@@ -117,7 +117,7 @@ const Recommends = () => {
                     <strong><FaStar /></strong>
                     <strong><FaStar /></strong>
                 </p>
-                <a href='#'>Add to collection</a>
+                <a href='#'><b>Add to collection</b></a>
             </div>
         </div>
         <div className='products'>
@@ -126,7 +126,7 @@ const Recommends = () => {
             </picture>
             <div className='recom-details'>
                 <p>
-                    <b>Product Six</b>
+                    <b>Product Six</b><br></br>
                     <small>New arrival</small>
                 </p>
             </div>
@@ -138,7 +138,7 @@ const Recommends = () => {
                     <strong><FaStar /></strong>
                     <strong><FaStar /></strong>
                 </p>
-                <a href='#'>Add to collection</a>
+                <a href='#'><b>Add to collection</b></a>
             </div>
         </div>
         <div className='products'>
@@ -147,7 +147,7 @@ const Recommends = () => {
             </picture>
             <div className='recom-details'>
                 <p>
-                    <b>Product Seven</b>
+                    <b>Product Seven</b><br></br>
                     <small>New arrival</small>
                 </p>
             </div>
@@ -159,7 +159,7 @@ const Recommends = () => {
                     <strong><FaStar /></strong>
                     <strong><FaStar /></strong>
                 </p>
-                <a href='#'>Add to collection</a>
+                <a href='#'><b>Add to collection</b></a>
             </div>
         </div>
         <div className='products'>
@@ -168,7 +168,7 @@ const Recommends = () => {
             </picture>
             <div className='recom-details'>
                 <p>
-                    <b>Product Eight</b>
+                    <b>Product Eight</b><br></br>
                     <small>New arrival</small>
                 </p>
             </div>
@@ -180,7 +180,7 @@ const Recommends = () => {
                     <strong><FaStar /></strong>
                     <strong><FaStar /></strong>
                 </p>
-                <a href='#'>Add to collection</a>
+                <a href='#'><b>Add to collection</b></a>
             </div>
         </div>
         <div className='products'>
@@ -189,7 +189,7 @@ const Recommends = () => {
             </picture>
             <div className='recom-details'>
                 <p>
-                    <b>Product Nine</b>
+                    <b>Product Nine</b><br></br>
                     <small>New arrival</small>
                 </p>
             </div>
@@ -201,7 +201,7 @@ const Recommends = () => {
                     <strong><FaStar /></strong>
                     <strong><FaStar /></strong>
                 </p>
-                <a href='#'>Add to collection</a>
+                <a href='#'><b>Add to collection</b></a>
             </div>
         </div>
         <div className='products'>
@@ -210,7 +210,7 @@ const Recommends = () => {
             </picture>
             <div className='recom-details'>
                 <p>
-                    <b>Product Ten</b>
+                    <b>Product Ten</b><br></br>
                     <small>New arrival</small>
                 </p>
             </div>
@@ -222,7 +222,7 @@ const Recommends = () => {
                     <strong><FaStar /></strong>
                     <strong><FaStar /></strong>
                 </p>
-                <a href='#'>Add to collection</a>
+                <a href='#'><b>Add to collection</b></a>
             </div>
         </div>
       </section>

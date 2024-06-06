@@ -58,11 +58,6 @@ const Newslide = () => {
           
         </div>
 
-        <div className="mySlides fade">
-          <img src="https://scontent.fbkk29-1.fna.fbcdn.net/v/t39.30808-6/355104437_716387297165889_3051305454488190266_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=AZYLP4W__HwAb7NOM9c&_nc_ht=scontent.fbkk29-1.fna&oh=00_AfDi2MWY_atXKh9S8fcA0hRX1661l_Sgjt5hKq5LtxAfrA&oe=66358D56" style={{ width: '100%'}} alt="Slide 3" />
-          
-        </div>
-
         <a className="prev" onClick={() => plusSlides(-1)}>
           &#10094;
         </a>

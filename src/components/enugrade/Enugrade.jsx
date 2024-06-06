@@ -22,7 +22,7 @@ const Enugrade = () => {
             <div className='enumerate-box'>
                 <img src={Enu1}/>
                 <div className='enumerate-layer'>
-                    <h4>HG(high grade)</h4>
+                    <h4>SD(Super Deformed)</h4>
                     <p>adsadawdarlkghkjethgekjbndfkjbh</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>
@@ -31,7 +31,7 @@ const Enugrade = () => {
             <div className='enumerate-box'>
                 <img src={Enu2}/>
                 <div className='enumerate-layer'>
-                    <h4>HG(high grade)</h4>
+                    <h4>HG(High Grade)</h4>
                     <p>adsadawdarlkghkjethgekjbndfkjbh</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>
@@ -40,7 +40,7 @@ const Enugrade = () => {
             <div className='enumerate-box'>
                 <img src={Enu3}/>
                 <div className='enumerate-layer'>
-                    <h4>HG(high grade)</h4>
+                    <h4>RG(Real Grade)</h4>
                     <p>adsadawdarlkghkjethgekjbndfkjbh</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>

@@ -15,7 +15,7 @@ const Account = () => {
           <div class="portada">
           </div>
           <div class="title-total">   
-            <div class="title"><IoHeartCircleOutline /></div>
+            <div class="title"><a href='/collection'><IoHeartCircleOutline /></a></div>
             <h2>Amuro Ray</h2>
         <div class="desc">This is your profile passport, Please show this card to use & visit this website.</div>
         <div class="descr"><b>Email : </b>plakaoyes@gmail.com</div>
