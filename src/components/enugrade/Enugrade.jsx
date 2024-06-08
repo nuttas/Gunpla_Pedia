@@ -23,8 +23,7 @@ const Enugrade = () => {
                 <img src={Enu1}/>
                 <div className='enumerate-layer'>
                     <h4>SD (Super Deformed)</h4>
-                    <p>adsadawdarlkghkjethgekjbndfkjbh</p>
-                    <a href="#"><FaExternalLinkAlt /></a>
+                    <p>Has a small size and large head Makes it look cute.</p>
                 </div>
             </div>
 
@@ -32,8 +31,7 @@ const Enugrade = () => {
                 <img src={Enu2}/>
                 <div className='enumerate-layer'>
                     <h4>HG (High Grade)</h4>
-                    <p>adsadawdarlkghkjethgekjbndfkjbh</p>
-                    <a href="#"><FaExternalLinkAlt /></a>
+                    <p>1/144 Scale Suited for beginner and the most popular</p>
                 </div>
             </div>
 
@@ -42,7 +40,6 @@ const Enugrade = () => {
                 <div className='enumerate-layer'>
                     <h4>RG (Real Grade)</h4>
                     <p>Details like MG in HG Scale</p>
-                    <a href="#"><FaExternalLinkAlt /></a>
                 </div>
             </div>
 
@@ -50,8 +47,7 @@ const Enugrade = () => {
                 <img src={Enu4}/>
                 <div className='enumerate-layer'>
                     <h4>MG (Master Grade)</h4>
-                    <p>adsadawdarlkghkjethgekjbndfkjbh</p>
-                    <a href="#"><FaExternalLinkAlt /></a>
+                    <p>1/100 scale with a flexible joint system and can change poses.</p>
                 </div>
             </div>
 
@@ -59,8 +55,7 @@ const Enugrade = () => {
                 <img src={Enu5}/>
                 <div className='enumerate-layer'>
                     <h4>PG (Perfect Grade)</h4>
-                    <p>adsadawdarlkghkjethgekjbndfkjbh</p>
-                    <a href="#"><FaExternalLinkAlt /></a>
+                    <p>1/60 scale It is complicated to build and has a lot of details.</p>
                 </div>
             </div>
 
@@ -68,32 +63,28 @@ const Enugrade = () => {
                 <img src={Enu6}/>
                 <div className='enumerate-layer'>
                     <h4>Mega Size Model</h4>
-                    <p>adsadawdarlkghkjethgekjbndfkjbh</p>
-                    <a href="#"><FaExternalLinkAlt /></a>
+                    <p>1/48 scale Largest size, easy to assemble and not complicated</p>
                 </div>
             </div>
             <div className='enumerate-box'>
                 <img src={Enu7}/>
                 <div className='enumerate-layer'>
-                    <h4>HG(high grade)</h4>
-                    <p>adsadawdarlkghkjethgekjbndfkjbh</p>
-                    <a href="#"><FaExternalLinkAlt /></a>
+                    <h4>Reborn-One Hundred</h4>
+                    <p>Scale as MG with no inner frame.</p>
                 </div>
             </div>
             <div className='enumerate-box'>
                 <img src={Enu80}/>
                 <div className='enumerate-layer'>
                     <h4>1/100 Scale</h4>
-                    <p>adsadawdarlkghkjethgekjbndfkjbh</p>
-                    <a href="#"><FaExternalLinkAlt /></a>
+                    <p>Scale as MG with no inner frame.</p>
                 </div>
             </div>
             <div className='enumerate-box'>
                 <img src = "https://da.lnwfile.com/_/da/_raw/j8/to/xh.jpg"/>
                 <div className='enumerate-layer'>
                     <h4>EG (Entry Grade)</h4>
-                    <p>adsadawdarlkghkjethgekjbndfkjbh</p>
-                    <a href="#"><FaExternalLinkAlt /></a>
+                    <p>The parts can be removed without using cutting tools.</p>
                 </div>
             </div>
         </div>
