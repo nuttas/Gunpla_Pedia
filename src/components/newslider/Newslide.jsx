@@ -51,7 +51,6 @@ const Newslide = () => {
         <div className="mySlides fade">
           <img src="https://da.lnwfile.com/9phhig.jpg" style={{ width: '100%' }} alt="Slide 1" />
         </div>
-
         <div className="mySlides fade">
           <img src="https://da.lnwfile.com/_/da/_raw/np/53/by.jpg" style={{ width: '100%' }} alt="Slide 2" />
         </div>

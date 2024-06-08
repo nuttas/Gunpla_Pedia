@@ -1,18 +1,17 @@
 import React from 'react'
-import { AiFillStar } from "react-icons/ai";
+import Card from '../showcom/Card'
+import Series from '../sidebar/series/Series'
+import './Product.css'
 
-const Product = () => {
+const Product = ({result, handlechange}) => {
   return (
     <>
-        <section className="card-container">
-            <section className="card">
-                <img src="https://da.lnwfile.com/_/da/_raw/lo/8i/ez.jpg"></img>
-                <div className="card-details">
-                    <h3 className="card-name">MG JUSTICE GUNDAM</h3>
-                    <section className="card-reviews"></section>
-                </div>
-            </section>
-        </section>
+      <div className="gproduct-container">
+      <section className="sidebar-container">
+          <Series handleChange={handlechange}/>
+      </section>
+        {result}
+      </div>
     </>
   )
 }

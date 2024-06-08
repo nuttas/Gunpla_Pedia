@@ -22,7 +22,7 @@ const Enugrade = () => {
             <div className='enumerate-box'>
                 <img src={Enu1}/>
                 <div className='enumerate-layer'>
-                    <h4>SD(Super Deformed)</h4>
+                    <h4>SD (Super Deformed)</h4>
                     <p>adsadawdarlkghkjethgekjbndfkjbh</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>
@@ -31,7 +31,7 @@ const Enugrade = () => {
             <div className='enumerate-box'>
                 <img src={Enu2}/>
                 <div className='enumerate-layer'>
-                    <h4>HG(High Grade)</h4>
+                    <h4>HG (High Grade)</h4>
                     <p>adsadawdarlkghkjethgekjbndfkjbh</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>
@@ -40,8 +40,8 @@ const Enugrade = () => {
             <div className='enumerate-box'>
                 <img src={Enu3}/>
                 <div className='enumerate-layer'>
-                    <h4>RG(Real Grade)</h4>
-                    <p>adsadawdarlkghkjethgekjbndfkjbh</p>
+                    <h4>RG (Real Grade)</h4>
+                    <p>Details like MG in HG Scale</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>
             </div>
@@ -49,7 +49,7 @@ const Enugrade = () => {
             <div className='enumerate-box'>
                 <img src={Enu4}/>
                 <div className='enumerate-layer'>
-                    <h4>HG(high grade)</h4>
+                    <h4>MG (Master Grade)</h4>
                     <p>adsadawdarlkghkjethgekjbndfkjbh</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>
@@ -58,7 +58,7 @@ const Enugrade = () => {
             <div className='enumerate-box'>
                 <img src={Enu5}/>
                 <div className='enumerate-layer'>
-                    <h4>HG(high grade)</h4>
+                    <h4>PG (Perfect Grade)</h4>
                     <p>adsadawdarlkghkjethgekjbndfkjbh</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>
@@ -67,7 +67,7 @@ const Enugrade = () => {
             <div className='enumerate-box'>
                 <img src={Enu6}/>
                 <div className='enumerate-layer'>
-                    <h4>HG(high grade)</h4>
+                    <h4>Mega Size Model</h4>
                     <p>adsadawdarlkghkjethgekjbndfkjbh</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>
@@ -83,15 +83,15 @@ const Enugrade = () => {
             <div className='enumerate-box'>
                 <img src={Enu80}/>
                 <div className='enumerate-layer'>
-                    <h4>HG(high grade)</h4>
+                    <h4>1/100 Scale</h4>
                     <p>adsadawdarlkghkjethgekjbndfkjbh</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>
             </div>
             <div className='enumerate-box'>
-                <img src={Enu9}/>
+                <img src = "https://da.lnwfile.com/_/da/_raw/j8/to/xh.jpg"/>
                 <div className='enumerate-layer'>
-                    <h4>HG(high grade)</h4>
+                    <h4>EG (Entry Grade)</h4>
                     <p>adsadawdarlkghkjethgekjbndfkjbh</p>
                     <a href="#"><FaExternalLinkAlt /></a>
                 </div>

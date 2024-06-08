@@ -14,7 +14,6 @@ import Account from './pages/account/Account'
 import Details from './pages/details/Details'
 
 
-
 function App() {
 
   return (
